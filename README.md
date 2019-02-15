@@ -27,6 +27,7 @@ You need to have a powerfull machine
   the 3 triangle options 
 | Enter a sletter                      |  a   | Not a  |
                                                 triangle
+|                                      |      |        |
                                        
 
 ## Languages and programming languages used:
