@@ -14,7 +14,7 @@
       <h2>Triangle Tracker App</h2>
     </header>
 
-    <script src="js/scripts.js"></script>
+
 
     <section>
       <nav>
@@ -31,22 +31,21 @@
         <p>This Triangle Tracker App help you know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.</p>
         <p>Enter three numbers or digits to find out which triangle it is.</p>
 
-        <!-- Form - Number Field -->
 
-
-        <form id="frm1" action="/action_page.php">
+<!-- Form - Number Field -->
+        <form id="frm1">
           <fieldset>
             <legend>Triangle inputs:</legend>
                 Enter first number: <br>
-                <input type="number" name="a" min="1" max="25" value =" "><br>
+                <input type="number" name="a" min="1" max="25" value =" " id="one"><br>
                 Enter second number: <br>
-                <input type="number" name="b" min="1" max="25" value =" "><br>
+                <input type="number" name="b" min="1" max="25" value =" " id="two"><br>
                 Enter third number: <br>
-                <input type="number" name="c" min="1" max="25" value =" "><br><br>
-                <input type="submit" value="Submit">
+                <input type="number" name="c" min="1" max="25" value =" " id="three"><br><br>
+                <input type="button" onclick= "myFunction()" value="Submit">
           </fieldset>
         </form>
-        <!-- <button onclick="myFunction()">Inputted numbers</button> -->
+<!-- <button onclick="myFunction()">Inputted numbers</button> -->
 
         <h3>Equilateral triangle </h3>
         <p>An equilateral triangle, must have all sides equal</p>
@@ -66,6 +65,6 @@
     <footer>
       <p>Copyright @ MainaC 2019</p>
     </footer>
-
+    <script src="js/scripts.js"></script>
   </body>
 </html>
