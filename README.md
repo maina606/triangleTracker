@@ -20,13 +20,18 @@ You need to have a powerfull machine
 
 | Behaviour our program should handle | Input | Output |
 | ------------------------------------|-------| ------ |
-| Enter a digit                       | 6     | 6      |
-| Enter another number                | 5     | 7      |
+| Enter three digits/numbers          | 6     | 6      |
+
+| Check if the numbers can            | 5     | True   |
+  form a triangle               
+  
 | Enter yet another number            | 8     | 8      |
+
 | Calculate/check if the 3 digits fit | True  | False  
   the 3 triangle options 
+  
 | Enter a sletter                      |  a   | Not a  |
-                                                triangle
+                                              
 |                                      |      |        |
                                        
 
