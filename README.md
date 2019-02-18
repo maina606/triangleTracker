@@ -18,16 +18,16 @@ You need to have a powerfull machine
 
 ## BDD (Behaviour Driven Development)
 
-| Behaviour our program should handle | Input | Output |
-| ------------------------------------|-------| ------ |
-| Enter three digits/numbers          | 6     | 6      |
-| Check if the numbers can            | 5     | True   |
+| Behaviour our program should handle           | Input   | Output     |
+| ----------------------------------------------|---------| -----------|
+| Enter three digits/numbers                    | 2,2,4   | 2,2,4      |
+| Check if the numbers can                      | 9,4,3   | False      |
   form a triangle               
-| Enter yet another number            | 8     | 8      |
-| Calculate/check if the 3 digits fit | True  | False  
-  the 3 triangle options 
-| Enter a sletter                      |  a   | Not a  |
-                                    
+| If sum of two sides is > than the 3rd         | 2,3,4   | True       |
+| If all 3 sides are equal                      | 2, 2, 2 | Equilateral|
+| If 2 sides are equal                          | 2, 2, 1 | Isosceles  |
+| If none of the sides are equal                | 4, 6, 5 | Scalene    |
+                                 
                                     
 
 ## Languages and programming languages used:
