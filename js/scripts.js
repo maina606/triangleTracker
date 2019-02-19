@@ -29,6 +29,8 @@ function myFunction(form) {
   }
 */
 
+
+/*
 var triangles = function (a, b, c){
   if (a + b > c || b + c > a || a + c > b){
     if (a === b && a === c && b === c){
@@ -54,10 +56,12 @@ var result = triangles(a, b, c);
 
 alert(result);
 
+*/
+
 
 /* ---------------------------------------------------- */
 
-/*
+
 var triangles = function (a, b, c){
   if (a === b && a === c && b === c){
     return "This is an equilateral triangle, since all the sides are equal.";
@@ -84,4 +88,3 @@ var c = parseInt(prompt("Enter yet another number:"));
 var result = triangles(a, b, c);
 
 alert(result);
-*/
