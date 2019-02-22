@@ -1,0 +1,83 @@
+[33mcommit 5b15ea2ab5f94fe7927c16077bf62f5952d19954[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Fri Feb 22 09:42:05 2019 +0300
+
+    modified nested if and now working
+
+[33mcommit c0c3a1d646d5fcdc8dc9428657e1374f5127eb12[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Tue Feb 19 09:03:45 2019 +0300
+
+    Add the changes
+
+[33mcommit fd5424ba8be7cd16511e9a5dc0dc92d2b5445153[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Mon Feb 18 10:47:43 2019 +0300
+
+    Edit nested if stataments
+
+[33mcommit 29b4a7d3e43e1a49424cf6c8d2b0e61a23d0e3d6[m[33m ([m[1;31morigin/gh-pages[m[33m, [m[1;32mgh-pages[m[33m)[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Mon Feb 18 09:46:07 2019 +0300
+
+    Edit README:MD file
+
+[33mcommit b42fdca5362dfd6f11bcc95c7af1c2fc983186c0[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Sat Feb 16 12:14:34 2019 +0300
+
+    "Add conditions"
+
+[33mcommit d64a6ab85960314ba1051c2e7eeab8d447cd2ddb[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Sat Feb 16 12:13:00 2019 +0300
+
+    "add a business logic functionalities"
+
+[33mcommit 8c6da364229270c306acffc38c35b84996e3337c[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Sat Feb 16 10:57:38 2019 +0300
+
+    all
+
+[33mcommit 9b6c62956b7117a79c6d7498020754ac9bc1e207[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Fri Feb 15 11:08:54 2019 +0300
+
+    add gh-pages
+
+[33mcommit 33952f016e00b28fb8347a3d2b152b2bcae54046[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Fri Feb 15 07:52:31 2019 +0300
+
+    rename readme.md file to README.MD
+
+[33mcommit d4661da7e2c9aa6ebbfd8bfce6473086664a2ea8[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Fri Feb 15 07:47:17 2019 +0300
+
+    add a readme.md file
+
+[33mcommit 4892ca7b7574568754c7e0efeb5277abe0dee0ac[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Fri Feb 15 07:45:16 2019 +0300
+
+    add images directory
+
+[33mcommit 10c36b93d0b0934acbff923ea58a6fbb03e7bb40[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Fri Feb 15 07:39:59 2019 +0300
+
+    add styles.css
+
+[33mcommit 5f08ea0f54c16aeb5ed4dcafc5196ad6f82d8d2d[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Fri Feb 15 07:33:40 2019 +0300
+
+    add scripts.js file
+
+[33mcommit ebc2b0fbe14861a62b4df4d1a379233f50c5ff42[m
+Author: maina606 <cmmaina@gmail.com>
+Date:   Fri Feb 15 07:01:23 2019 +0300
+
+    add initial page structure.

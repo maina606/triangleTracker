@@ -2,8 +2,6 @@
 /* ----------------------Business Logic - Functionality------------------------------*/
 
 
-
-
 var triangles = function (a, b, c){
   //debugger
   if (a + b > c && b + c > a && a + c > b){ // if the 3 sides make a triangle
